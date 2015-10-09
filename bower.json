@@ -1,6 +1,6 @@
 {
   "name": "nodernizr-dev",
-  "version": "2.8.3",
+  "version": "3.1.0",
   "homepage": "https://github.com/alexwebgr/modernizr",
   "description": "Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.",
   "main": "modernizr-latest.js",
